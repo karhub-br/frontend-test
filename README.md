@@ -6,8 +6,6 @@ Seja bem-vindo ao Teste de Frontend Karhub!
 ## Desafio
 
 - Construir uma página de listagem de produtos em um Ecommerce de Autopeças.
-- Enviar e persistir produtos no Carrinho.
-
 
 ## Como deve ficar:
 
@@ -16,8 +14,6 @@ Página de listagem:
 ![Section2](https://i.imgur.com/EFNSRsb.png)
 ![Section3](https://i.imgur.com/uuWgAIz.png)
 ![Section4](https://i.imgur.com/BmGzLtF.png)
-Carrinho:
-![Carrinho](https://i.imgur.com/sNfF6Xb.png)
 
 
 
@@ -30,7 +26,6 @@ Carrinho:
 - Documentação;
 - Commits Semânticos;
 - Responsividade;
-- Persistência dos itens no carrinho;
 
 
 ## Stack
