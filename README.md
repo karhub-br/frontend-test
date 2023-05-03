@@ -5,7 +5,7 @@ Seja bem-vindo ao Teste de Frontend Karhub!
 
 ## Desafio
 
-- Construir uma página de listagem de um Ecommerce de Autopeças.
+- Construir uma página de listagem de produtos em um Ecommerce de Autopeças.
 - Enviar e persistir produtos no Carrinho.
 
 
